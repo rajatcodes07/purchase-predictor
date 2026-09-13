@@ -1,0 +1,7 @@
+{
+  "name": "Buy or Wait",
+  "description": "Premium fintech purchase decision engine with cash flow forecasting, AI scenario analysis, and safe-to-spend analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
